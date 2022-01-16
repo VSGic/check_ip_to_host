@@ -1,0 +1,6 @@
+{
+      "hosts_to_check":["google.com", 
+      "yahoo.com", 
+      "bing.com", 
+      "duckduckgo.com"] 
+}
